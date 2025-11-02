@@ -1,8 +1,6 @@
 <h1 align="center"> Portfólio - Roberto Santos</h1>
 
-<h3 align="center">
-Analista de Dados</h3>
-</h1>
+<h3 align="center">Analista de Dados</h3>
 
 <p align="center">
   <a href="#-tecnologias">TECNOLOGIAS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
