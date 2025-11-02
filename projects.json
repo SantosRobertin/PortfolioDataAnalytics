@@ -1,50 +1,62 @@
-  [ 
+  [
   {
-    "name": "Dashboard - CONTROLE DE VENDAS",
-    "image": "./assets/bi-controle-vendas.png",
-    "tags": ["Excel", "SQL", "Power BI"],
-    "link": "https://app.powerbi.com/view?r=eyJrIjoiYjY3YzM5MTYtZjkzMy00ZjNhLTg5NzctMmRiNjE3M2U0NzM5IiwidCI6IjA1NjMyNmE3LTM2YmItNDMyYi04ZTMxLTQxZGU1YTUzNGUyNCJ9"
+    "name": "Dashboard - OWERVIEW OFICINA | SERVIÇOS",
+    "image": "./assets/oficina-servico.png",
+    "tags": ["PostgreSQL", "SQL", "ETL", "Power BI"],
+    "link": "https://app.powerbi.com/view?r=eyJrIjoiOTQ0Y2Q2MzYtM2FjOS00NWI4LWJlOGEtMDhhOGVhODdjMDc4IiwidCI6IjA1NjMyNmE3LTM2YmItNDMyYi04ZTMxLTQxZGU1YTUzNGUyNCJ9"
   },
   {
-    "name": "Dashboard - CONTROL TOWER - IMPORTAÇAO",
-    "image": "./assets/bi-control-tower.png",
-    "tags": ["Excel", "SQL", "Power BI"],
-    "link": "https://app.powerbi.com/view?r=eyJrIjoiYzI5YzExZGQtNzZmNy00NmYzLTg3MTAtZTM4NDkzZmU3MGFiIiwidCI6IjA1NjMyNmE3LTM2YmItNDMyYi04ZTMxLTQxZGU1YTUzNGUyNCJ9"
+    "name": "Dashboard - ATENDIMENTOS CRM",
+    "image": "./assets/projeto-revizza.png",
+    "tags": ["PostgreSQL", "SQL", "ETL", "Power BI"],
+    "link": "https://app.powerbi.com/view?r=eyJrIjoiMThmZTYwODEtNTYzMy00ODVmLWE2NjctYWFmYTdiM2M2MTVkIiwidCI6IjA1NjMyNmE3LTM2YmItNDMyYi04ZTMxLTQxZGU1YTUzNGUyNCJ9"
   },
   {
-    "name": "Dashboard - FINANCEIRO",
-    "image": "./assets/bi-financeiro.png",
-    "tags": ["Excel", "SQL", "Power BI", "Copilot"],
-    "link": "https://app.powerbi.com/view?r=eyJrIjoiOTAyMTAzNDYtZmQ2Yi00MmE4LWIxOTAtY2U0NjZmYTk3MjAyIiwidCI6IjA1NjMyNmE3LTM2YmItNDMyYi04ZTMxLTQxZGU1YTUzNGUyNCJ9&pageName=ReportSection417f61cc94c11c46304d"
-  },
-  {
-    "name": "Dashboard - METAS E RESULTADOS",
-    "image": "/assets/bi-meta-result.png",
-    "tags": ["Excel", "SQL", "Power BI"],
-    "link": "https://app.powerbi.com/view?r=eyJrIjoiZGQ2Njk2NzUtYTNmNy00YzgyLThiMzAtNGYwNDhiNjczMzllIiwidCI6IjA1NjMyNmE3LTM2YmItNDMyYi04ZTMxLTQxZGU1YTUzNGUyNCJ9"
-  },
-  {
-    "name": "Dashboard - LOCADORA DE VEICULOS",
-    "image": "./assets/bi-locadora-veiculos.png",
-    "tags": ["Excel", "SQL", "Power BI"],
-    "link": "https://app.powerbi.com/view?r=eyJrIjoiYTRhNjU5ZGUtZDYxMS00MjM2LTgwZjAtMzc4NjI2NjU0N2IxIiwidCI6IjA1NjMyNmE3LTM2YmItNDMyYi04ZTMxLTQxZGU1YTUzNGUyNCJ9"
-  },
-  {
-    "name": "Dashboard - RH",
+    "name": "Dashboard - ACOMPANHAMENTO DE RH",
     "image": "./assets/bi-rh.png",
-    "tags": ["Excel", "SQL", "Power BI"],
+    "tags": ["Excel", "ETL", "Power BI"],
     "link": "https://app.powerbi.com/view?r=eyJrIjoiMzI3YmIzMmUtYmVkMS00Yjk1LWIyNzQtNGVhNzM4NWM5MjgyIiwidCI6IjA1NjMyNmE3LTM2YmItNDMyYi04ZTMxLTQxZGU1YTUzNGUyNCJ9"
-  },
-  {
-    "name": "Dashboard - VENDAS DE PRODUTOS",
-    "image": "/assets/bi-vend-prod.png",
-    "tags": ["Excel", "SQL", "Power BI"],
-    "link": "https://app.powerbi.com/view?r=eyJrIjoiNDY0ZGU2MjEtM2E4NC00ZTNhLTk2YmUtNmFhMzcyMjBhYzdjIiwidCI6IjA1NjMyNmE3LTM2YmItNDMyYi04ZTMxLTQxZGU1YTUzNGUyNCJ9&pageName=4f10e822aaaba90870e4"
   },
   {
     "name": "Dashboard - VENDAS E DEVOLUÇÕES",
     "image": "/assets/bi-vend-devo.png",
-    "tags": ["Excel", "SQL", "Power BI"],
+    "tags": ["Excel", "ETL", "Power BI"],
     "link": "https://app.powerbi.com/view?r=eyJrIjoiMDc1ZDI2MjYtZWY2MS00ZjQzLTliNzctMzZhZWRjMzAyMWQ3IiwidCI6IjA1NjMyNmE3LTM2YmItNDMyYi04ZTMxLTQxZGU1YTUzNGUyNCJ9"
+  },
+  {
+    "name": "Dashboard - METAS E RESULTADOS",
+    "image": "/assets/bi-meta-result.png",
+    "tags": ["Excel", "ETL", "Power BI"],
+    "link": "https://app.powerbi.com/view?r=eyJrIjoiZGQ2Njk2NzUtYTNmNy00YzgyLThiMzAtNGYwNDhiNjczMzllIiwidCI6IjA1NjMyNmE3LTM2YmItNDMyYi04ZTMxLTQxZGU1YTUzNGUyNCJ9"
+  },
+  {
+    "name": "Dashboard - CONTROLE DE VENDAS",
+    "image": "./assets/bi-controle-vendas.png",
+    "tags": ["Excel", "ETL", "Power BI"],
+    "link": "https://app.powerbi.com/view?r=eyJrIjoiYjY3YzM5MTYtZjkzMy00ZjNhLTg5NzctMmRiNjE3M2U0NzM5IiwidCI6IjA1NjMyNmE3LTM2YmItNDMyYi04ZTMxLTQxZGU1YTUzNGUyNCJ9"
+  },
+  {
+    "name": "Dashboard - LOCADORA DE VEICULOS",
+    "image": "./assets/bi-locadora-veiculos.png",
+    "tags": ["Excel", "ETL", "Power BI"],
+    "link": "https://app.powerbi.com/view?r=eyJrIjoiYTRhNjU5ZGUtZDYxMS00MjM2LTgwZjAtMzc4NjI2NjU0N2IxIiwidCI6IjA1NjMyNmE3LTM2YmItNDMyYi04ZTMxLTQxZGU1YTUzNGUyNCJ9"
+  },
+  {
+    "name": "Dashboard - FINANCEIRO",
+    "image": "./assets/bi-financeiro.png",
+    "tags": ["Excel", "ETL", "Power BI", "Copilot"],
+    "link": "https://app.powerbi.com/view?r=eyJrIjoiOTAyMTAzNDYtZmQ2Yi00MmE4LWIxOTAtY2U0NjZmYTk3MjAyIiwidCI6IjA1NjMyNmE3LTM2YmItNDMyYi04ZTMxLTQxZGU1YTUzNGUyNCJ9&pageName=ReportSection417f61cc94c11c46304d"
+  },
+  {
+    "name": "Dashboard - CONTROL TOWER - IMPORTAÇAO",
+    "image": "./assets/bi-control-tower.png",
+    "tags": ["Excel", "ETL", "Power BI"],
+    "link": "https://app.powerbi.com/view?r=eyJrIjoiYzI5YzExZGQtNzZmNy00NmYzLTg3MTAtZTM4NDkzZmU3MGFiIiwidCI6IjA1NjMyNmE3LTM2YmItNDMyYi04ZTMxLTQxZGU1YTUzNGUyNCJ9"
+  },
+  {
+    "name": "Dashboard - VENDAS DE PRODUTOS",
+    "image": "/assets/bi-vend-prod.png",
+    "tags": ["Excel", "ETL", "Power BI"],
+    "link": "https://app.powerbi.com/view?r=eyJrIjoiNDY0ZGU2MjEtM2E4NC00ZTNhLTk2YmUtNmFhMzcyMjBhYzdjIiwidCI6IjA1NjMyNmE3LTM2YmItNDMyYi04ZTMxLTQxZGU1YTUzNGUyNCJ9&pageName=4f10e822aaaba90870e4"
   }
 ]
