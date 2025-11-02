@@ -15,8 +15,6 @@ Analista de Dados</h3>
 
 ### 🚀 Tecnologias
 
-O Portfólio foi desenvolvido utilizando as linguagens HTML, CSS, JavaScript, e outras tecnologias para melhor performance do site.
-
 ✅ Json para criação dos projetos de forma dinâmica.
 ✅ Animações com a biblioteca AOS
 ✅ Uso semântico do HTML
