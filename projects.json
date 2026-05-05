@@ -1,5 +1,11 @@
   [
   {
+    "name": "Dashboard - CONTROLE DE HOSTS",
+    "image": "./assets/projeto-hosts.jpeg",
+    "tags": ["SQL", "ETL", "Power BI"],
+    "link": "https://app.powerbi.com/view?r=eyJrIjoiN2Q2OGM0YTctM2VjYS00MDNhLTg1MWYtY2IyZDZmMTg1MmQ2IiwidCI6IjA1NjMyNmE3LTM2YmItNDMyYi04ZTMxLTQxZGU1YTUzNGUyNCJ9"
+  },
+  {
     "name": "Dashboard - OVERVIEW OFICINA | SERVIÇOS",
     "image": "./assets/oficina-servico.png",
     "tags": ["PostgreSQL", "SQL", "ETL", "Power BI"],
