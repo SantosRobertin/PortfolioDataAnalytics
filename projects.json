@@ -1,5 +1,11 @@
   [
   {
+    "name": "Dashboard - FACULDADE",
+    "image": "./assets/bi-faculdade.png",
+    "tags": ["SQL", "ETL", "Power BI"],
+    "link": "https://app.powerbi.com/view?r=eyJrIjoiMWE3MzAxNmQtZTA4YS00Mjc3LTk2Y2YtYjg2ZjA2NjU1MzIxIiwidCI6IjA1NjMyNmE3LTM2YmItNDMyYi04ZTMxLTQxZGU1YTUzNGUyNCJ9"
+  },
+  {
     "name": "Dashboard - OVERVIEW OFICINA | SERVIÇOS",
     "image": "./assets/oficina-servico.png",
     "tags": ["PostgreSQL", "SQL", "ETL", "Power BI"],
