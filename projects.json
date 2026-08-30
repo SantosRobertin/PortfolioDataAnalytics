@@ -1,28 +1,28 @@
   [
   {
-    "name": "Dashboard - FACULDADE",
-    "image": "./assets/bi-faculdade.png",
-    "tags": ["SQL", "ETL", "Power BI"],
-    "link": "https://app.powerbi.com/view?r=eyJrIjoiMWE3MzAxNmQtZTA4YS00Mjc3LTk2Y2YtYjg2ZjA2NjU1MzIxIiwidCI6IjA1NjMyNmE3LTM2YmItNDMyYi04ZTMxLTQxZGU1YTUzNGUyNCJ9"
+    "name": "Projeto Real \nDashboard - ATENDIMENTOS CRM",
+    "image": "./assets/projeto-revizza.png",
+    "tags": ["PostgreSQL", "SQL", "ETL", "Power BI"],
+    "link": "https://app.powerbi.com/view?r=eyJrIjoiMThmZTYwODEtNTYzMy00ODVmLWE2NjctYWFmYTdiM2M2MTVkIiwidCI6IjA1NjMyNmE3LTM2YmItNDMyYi04ZTMxLTQxZGU1YTUzNGUyNCJ9"
   },
   {
-    "name": "Dashboard - CONTROLE DE HOSTS",
+    "name": "Projeto Real \nDashboard - CONTROLE DE HOSTS",
     "image": "./assets/projeto-hosts.jpeg",
     "tags": ["SQL", "ETL", "Power BI"],
     "link": "https://app.powerbi.com/view?r=eyJrIjoiMjczOTQzNzEtZmJkOS00ODZkLWIwZGQtMDhlNjBhYTRiOWRjIiwidCI6IjA1NjMyNmE3LTM2YmItNDMyYi04ZTMxLTQxZGU1YTUzNGUyNCJ9"
   },
   {
-    "name": "Dashboard - OVERVIEW OFICINA | SERVIÇOS",
+    "name": "Projeto Real \nDashboard - OVERVIEW OFICINA | SERVIÇOS",
     "image": "./assets/oficina-servico.png",
     "tags": ["PostgreSQL", "SQL", "ETL", "Power BI"],
     "link": "https://app.powerbi.com/view?r=eyJrIjoiOTQ0Y2Q2MzYtM2FjOS00NWI4LWJlOGEtMDhhOGVhODdjMDc4IiwidCI6IjA1NjMyNmE3LTM2YmItNDMyYi04ZTMxLTQxZGU1YTUzNGUyNCJ9"
   },
   {
-    "name": "Dashboard - ATENDIMENTOS CRM",
-    "image": "./assets/projeto-revizza.png",
-    "tags": ["PostgreSQL", "SQL", "ETL", "Power BI"],
-    "link": "https://app.powerbi.com/view?r=eyJrIjoiMThmZTYwODEtNTYzMy00ODVmLWE2NjctYWFmYTdiM2M2MTVkIiwidCI6IjA1NjMyNmE3LTM2YmItNDMyYi04ZTMxLTQxZGU1YTUzNGUyNCJ9"
-  },
+    "name": "Dashboard - FACULDADE",
+    "image": "./assets/bi-faculdade.png",
+    "tags": ["SQL", "ETL", "Power BI"],
+    "link": "https://app.powerbi.com/view?r=eyJrIjoiMWE3MzAxNmQtZTA4YS00Mjc3LTk2Y2YtYjg2ZjA2NjU1MzIxIiwidCI6IjA1NjMyNmE3LTM2YmItNDMyYi04ZTMxLTQxZGU1YTUzNGUyNCJ9"
+  }, 
   {
     "name": "Dashboard - ACOMPANHAMENTO DE RH",
     "image": "./assets/bi-rh.png",
